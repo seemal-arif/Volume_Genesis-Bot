@@ -9,7 +9,8 @@ The Volume_Genesis Bot automates token trading cycles by generating wallets, buy
 
 ## Technical Aspects:
 - **Backend :** Developed the backend in `Python` .
-- **Uniswap :** Integrated UniswapV3  
+- **Uniswap :** Integrated UniswapV3
+- **DataBase :** Used PostgreSQL database
 
 ## Role
 - **Blockchain & Backend Developer**
